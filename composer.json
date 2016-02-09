@@ -1,0 +1,15 @@
+{
+    "name": "sapioweb/searchrets",
+    "authors": [
+        {
+            "name": "Andreas Beasley",
+            "email": "andreas@sapioweb.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sapioweb\\Searchrets": "src/"
+        }
+    },
+    "require": {}
+}
