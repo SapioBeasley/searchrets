@@ -11,5 +11,6 @@
             "Sapioweb\\Searchrets\\": "src/"
         }
     },
+    "license": "MIT",
     "require": {}
 }
